@@ -227,6 +227,7 @@ a.nav-link:focus{
 /* About Section */
 #work{
   background-color: #ABB0FD;
+  text-align: center;
 }
 section#work{
   padding-bottom: 5.8em;
